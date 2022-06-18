@@ -1,5 +1,5 @@
 # LabReportApp
-simple laboratory web application
+
 ![patient-detail](https://user-images.githubusercontent.com/84589118/174440094-c30c976b-b3fa-4b28-817e-dfe55ba5d33e.png)
 ![patients](https://user-images.githubusercontent.com/84589118/174440151-d7f6c957-7f8b-41be-ab71-d701d56721ea.png)
 
