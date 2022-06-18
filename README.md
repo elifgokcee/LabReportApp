@@ -1,7 +1,7 @@
 # LabReportApp
 simple laboratory web application
-![patient-detail](https://user-images.githubusercontent.com/84589118/174439886-09640ef6-718f-4ed3-b08a-3bd9a7a7f3a1.png)
-![patients](https://user-images.githubusercontent.com/84589118/174439887-982468c0-063b-4022-9d75-0fbc2a507384.png)
+![patient-detail](https://user-images.githubusercontent.com/84589118/174440094-c30c976b-b3fa-4b28-817e-dfe55ba5d33e.png)
+
 Başvurduğum staj pozisyonu için istenen basit laboratuvar uygulaması isterleri:
 Başvurunuzu daha iyi değerlendirebilmek için, temel bir uygulama
 geliştirmenizi istiyoruz.
